@@ -25,13 +25,6 @@
 - Template de départ "Évolution musique FM" : https://colab.research.google.com/drive/1Dsw6i6xuEE2tWskfMemIpuYlDYFhl049  
 - Notebook "Évolution musique FM" : 🔴 LIEN COLAB À REMPLIR  
 
-## 🦕 Labo DINO Pasnono (5% - 📅 Remise le 30 septembre)  
-
-**🔗 Template code dinosaure** : https://github.com/nadineducegep/dino-starter  
-🦕 5 modèles créés et testés : 🔴 LIEN(S) GITHUB À REMPLIR  
-📝 Documentation des expérimentations : 🔴 LIEN MARKDOWN À REMPLIR  
-🌐 Mon installation testée : 🔴 LIEN WEB À REMPLIR  
-
 ## 📑 Feuille-synthèse  
 
 ### 🔗 Éléments de synthèse notés  
