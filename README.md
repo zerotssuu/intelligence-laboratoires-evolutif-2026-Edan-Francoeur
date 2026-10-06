@@ -9,7 +9,7 @@
 ### 🎨 Partie 1 : Laboratoire PIXEL
 📁 Notebook "Affichage de grilles de pixels" réalisé en atelier : [🔴 LIEN COLAB À REMPLIR ](https://colab.research.google.com/drive/1x7p6lqVfKWVTU04H2tdDamKFjjQzVIgZ?usp=sharing) 
 ### 🧪 Partie 2 : Laboratoire IDENTICONS évolutifs
-📁 Notebook "Projet Identicon évolutif" terminé à la maison (10 générations) : 🔴 LIEN COLAB À REMPLIR  
+📁 Notebook "Projet Identicon évolutif" terminé à la maison (10 générations) : [🔴 LIEN COLAB À REMPLIR ](https://colab.research.google.com/drive/1x7p6lqVfKWVTU04H2tdDamKFjjQzVIgZ?usp=sharing) 
 
 ## 🎵 Labo MUSICOLAB (5% - 📅 Remise le 23 septembre)
 
